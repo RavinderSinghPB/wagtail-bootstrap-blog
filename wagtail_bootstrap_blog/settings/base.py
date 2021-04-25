@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'wagtail.search',
     'wagtail.admin',
     'wagtail.core',
-    'wagtail.contrib.routable_page',
+    'wagtail.contrib.routable_page',     # in you tutorial its "wagtail.contrib.wagtailroutablepage", plz update in your tutorial 
     'wagtail.contrib.postgres_search',
     'wagtail.contrib.modeladmin',
     
